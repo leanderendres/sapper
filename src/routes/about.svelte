@@ -1,3 +1,15 @@
+<style>
+
+
+	p {
+		margin: 1em auto;
+		font-weight: bold;
+		text-decoration: underline;
+		color: red;
+	}
+
+</style>
+
 <svelte:head>
 	<title>About</title>
 </svelte:head>
