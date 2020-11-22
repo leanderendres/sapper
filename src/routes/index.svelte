@@ -38,6 +38,6 @@
 	<title>Sapper project template</title>
 </svelte:head>
 
-<h1>Great success!!!</h1>
+<h1>Marry Cristmas!!!</h1>
 
 <p>Try editing this file (src/routes/index.svelte) to test live reloading.</p>
